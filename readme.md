@@ -1,4 +1,4 @@
-## Ultra basic boilerplate ready for 2018
+## Ultra basic boilerplate ready for 2019
 React + React-Bootrstrap + React-rouetr + Babel + WebPack with hot module replacement
 
 I made this boilerplate to quickly get and up running with React programming with a dev and prod build and traspilation pipeline. You can also use react-bootstrap https://react-bootstrap.github.io/ components.
