@@ -1,0 +1,41 @@
+body {
+
+}
+
+:local(.bpMainDiv) {
+  margin: 40px;
+}
+
+:local(.bpDiv) {
+  margin: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /*  border: 5px dotted #A9A9A9; */
+}
+
+:local(.bpImg) {
+  height: 64px;
+}
+
+:local(.divRouter) {
+  padding: 5px;
+  border-style: inset;
+  border-width: medium;
+  border-color: lightgray;
+  border-radius: 8px;
+  background-color: lightgray;
+}
+
+:local(.compRouter) {
+  padding: 5px;
+  background-color: darkgray;
+  border-radius: 4px;
+}
+
+:local(.navTopRouter) {
+  padding: 5px;
+}
+
+:local(.navBottomRouter) {
+  padding: 5px;
+}
