@@ -3,7 +3,7 @@ React + React-Bootrstrap + React-rouetr + Babel + WebPack with hot module replac
 
 I made this boilerplate to quickly get and up running with React programming with a dev and prod build and traspilation pipeline. You can also use react-bootstrap https://react-bootstrap.github.io/ components.
 
-## Prepare all all
+## Prepare
 1. **NodeJS**  
 ``` https://nodejs.org/en/download/ ```
 2. **Webpack**
@@ -20,6 +20,8 @@ I made this boilerplate to quickly get and up running with React programming wit
 1. Start
 ```
  npm start
+```
+ npm run start
 ```
 
 2. App running in your broswer
